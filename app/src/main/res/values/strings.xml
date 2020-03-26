@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">internshipsegyTask</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subscribe">SubScribe</string>
+    <string name="android_learning">Android Learning</string>
+    <string name="subscribe_number">Subscribe Number :</string>
+</resources>
